@@ -1,0 +1,36 @@
+Buenas licenciada soy el estudiante Diego Bravo del 2 Bach L
+y le dare la breve explicacion de como cree mi pagina web
+primiero comenze investigando acerca de los temas que usted nos proporciono
+para recopilar la informacion e imagenes en un archivo de word
+
+Despues de haber tenido la informacion ya recopilada  comenze a crear mi pagina web
+
+comenzando con crear un archivo llamado Index desde el bloc de nota y ponerle el .HTML
+al final para que se cree un archi donde lo pueda editar de mejor manera
+en un editor de texto llamado sublime text
+ 
+Sublime Text es un editor de texto y editor de código fuente. 
+Está escrito en C++ y Python para los plugins.​ 
+
+despues de tener el archivo en sublime text comence con la codificacion
+ lo primero que hice fue una cabezera para que se viera mas odrenado
+aparte de poner botones que lleven a otra pagina, si necesito mas informcaion
+eso lo hice con el codigo <header> 
+
+despues de haber creado el encabezado comense con la informacion
+con <title> para los titulos <p> para los parrafos
+ para las imagenes <img scr=""> y asi mismo para los colores la opciones
+<bgcolor> y stile=color:"";
+
+desues de tener toda la informacion organizada y creada comence a editarla
+con las clases en el css( que se crea con el .css al final) donde editaria
+los codigos de titulos y parrafos pra no repetir el mismo fragmento
+asi mismo darle relleno y colores para no poner lo mismo en cada codigo
+ 
+en el apartdado de botones te puede llevar a otra pagina como el catalogo
+que tambien fue creado con los mismos pasos y varios tutorial
+
+asi puede crear una pagina limpia y ordenada
+
+GRACIAS
+
