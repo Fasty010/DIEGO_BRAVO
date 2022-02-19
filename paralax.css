@@ -150,3 +150,9 @@ font-family: Perpetua;
 .marca{
 	background-color: rgba(133, 96, 183, 0.7);
 }
+.parrafoss {
+    font-size: 30px;
+    padding: 10px;
+    text-align: justify;
+    font-family: Perpetua;
+}
