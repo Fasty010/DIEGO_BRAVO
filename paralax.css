@@ -156,3 +156,7 @@ font-family: Perpetua;
     text-align: justify;
     font-family: Perpetua;
 }
+iframe ,.pdf{
+	width: 90%;
+	height:80vh ;
+}
