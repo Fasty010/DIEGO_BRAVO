@@ -140,4 +140,7 @@ border-radius: 0;
 background: salmon;
 }
 
-
+iframe ,.pdf{
+	width: 90%;
+	height:80vh ;
+}
